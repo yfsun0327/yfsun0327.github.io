@@ -11,9 +11,9 @@ title                    : "Yifei Sun"
 title_separator          : "-"
 name                     : &name "Yifei Sun"
 description              : &description "PhD candidate at HKU"
-url                      : https://yfsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yfsun0327.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yfsun.github.io"
+repository               : "yfsun0327.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Yifei Sun received the B.E. degree in communication engineering from Southern University of Science and Technology (SUSTech), Shenzhen, China, in 2019. He is currently pursuing the Ph.D. degree with the Department of Computer Science, The University of Hong Kong (HKU). His research interests include integrated sensing and communication (ISAC) and wireless radio resource management."
-  location         : "Hong Kong"
+  bio              : "Yifei Sun received the B.E. degree in communication engineering from Southern University of Science and Technology (SUSTech), Shenzhen, China, in 2019. He is currently pursuing the Ph.D. degree with the Department of Computer Science, The University of Hong Kong (HKU). His research interests include wireless sensing and radio resource management."
+  location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uk3sGiQAAAAJ"
-  email            : "yfsun2@connect.hku.hk"
+  email            : "yfsun2(at)connect(dot)hku(dot)hk"
   researchgate     : "https://www.researchgate.net/profile/Yifei-Sun-44"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YifeiSun0327"
+  github           : "yfsun0327"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yifei-sun-024aa7141/"
   orcid            : "http://orcid.org/0000-0002-1449-430X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/id/obsidianbeacon"
+  stackoverflow    :
+  steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
