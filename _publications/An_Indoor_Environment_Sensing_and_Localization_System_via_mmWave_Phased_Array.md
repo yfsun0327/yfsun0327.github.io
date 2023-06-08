@@ -12,4 +12,4 @@ citation: ''
 
 [Paper](http://yfsun0327.github.io/files/An_Indoor_Environment_Sensing_and_Localization_System_via_mmWave_Phased_Array.pdf)
 
-Recommended citation: <b>Y. Sun</b>, J. Li, T. Zhang, R. Wang, X. Peng, X. Han, and H. Tan, "An Indoor Environment Sensing and Localization System via mmWave Phased Array," <i>Journal of Communications and Information Networks</i>, vol. 7, no. 4, pp. 383-393, Dec. 2022.
+Recommended citation: Y. Sun, J. Li, T. Zhang, R. Wang, X. Peng, X. Han, and H. Tan, "An Indoor Environment Sensing and Localization System via mmWave Phased Array," <i>Journal of Communications and Information Networks</i>, vol. 7, no. 4, pp. 383-393, Dec. 2022.
