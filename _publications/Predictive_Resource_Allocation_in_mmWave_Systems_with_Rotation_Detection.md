@@ -10,5 +10,7 @@ citation: ''
 ---
 
 
-[Download paper here](http://yfsun0327.github.io/files/Predictive_Resource_Allocation_in_mmWave_Systems_with_Rotation_Detection.pdf)
+[Paper](http://yfsun0327.github.io/files/Predictive_Resource_Allocation_in_mmWave_Systems_with_Rotation_Detection.pdf)
 [Poster](http://yfsun0327.github.io/files/ICC23_poster.pdf)
+
+Recommended citation: Y. Sun, B. Lv, R. Wang, H. Tan, and F. Lau, "Predictive Resource Allocation in mmWave Systems with Rotation Detection," <i>Journal of Communications and Information Networks</i>, 2023, arXiv:2303.16734.
