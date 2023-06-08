@@ -10,6 +10,6 @@ citation: ''
 ---
 
 
-[Download paper here](http://yfsun0327.github.io/files/Passive_Motion_Detection_via_mmWave_Communication_System.pdf)
+[Paper](http://yfsun0327.github.io/files/Passive_Motion_Detection_via_mmWave_Communication_System.pdf)
 
 Recommended citation: J. Li, C. Yu, Y. Luo, Y. Sun, and R. Wang, "Passive Motion Detection via mmWave Communication System," <i>2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)</i>, Helsinki, Finland, 2022, pp. 1-6.
