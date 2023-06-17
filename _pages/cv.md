@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Southern University of Science and Technology, 2019
-* Ph.D. in The University of Hong Kong, 2023 (expected)
+* B.S. in Southern University of Science and Technology (SUSTech), 2019
+* Ph.D. in The University of Hong Kong (HKU), 2024 (expected)
 
 <!-- Work experience
 ======
