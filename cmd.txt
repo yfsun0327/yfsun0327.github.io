@@ -1,0 +1,12 @@
+git clone https://github.com/yfsun0327/yfsun0327.github.io.git
+cd yfsun0327.github.io % cd yfsun0327.github.io.git
+git config user.name yfsun0327
+git config user.email yfsun0327@gmail.com
+
+Synchronization with github repository
+1. +
+2. comments
+3. √
+4. sync
+
+Run locally:
