@@ -5,7 +5,7 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-(* denotes equal contribution)
+(\* denotes equal contribution)
 
 
 <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Dynamic Uploading Scheduling in mmWave-Based Sensor Networks via Mobile Blocker Detection", <i>arXiv preprint arXiv:2311</i>. 00940, 2023.
