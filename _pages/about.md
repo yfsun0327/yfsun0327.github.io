@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-* I am now a PhD candidate in the joint PhD programme between [SUSTech](https://www.sustech.edu.cn/en/) and [HKU](https://www.hku.hk/), supervised by Prof. [Rui Wang](http://lasso.eee.sustech.edu.cn/) @SUSTech, Prof. [Chuan Wu](https://scholar.google.com/citations?user=mY7MWXMAAAAJ) @HKU, and Prof. [Francis C.M. Lau](https://scholar.google.com/citations?user=FmneJesAAAAJ) @HKU.
+* I am now a PhD candidate in the joint PhD programme between [SUSTech](https://www.sustech.edu.cn/en/) and [HKU](https://www.hku.hk/), supervised by Prof. [Rui WANG](http://lasso.eee.sustech.edu.cn/) (SUSTech) and Prof. [Francis C.M. LAU](https://scholar.google.com/citations?user=FmneJesAAAAJ) (HKU). I received my bachelor's degree in Communication Engineering at SUSTech in 2019.
 
 * My research interests lie in the algorithm design on radio resource management and system implementation on wireless sensing system. 
 
@@ -19,8 +19,8 @@ redirect_from:
 
 # Teaching
 * Teaching assistant:
-- COMP2121 Discrete Mathematics (Spring 2023 and Autumn 2019) @HKU
-- EE205 Signals and Systems (Spring 2022) @SUSTech
+  * COMP2121 Discrete Mathematics (Spring 2023 and Autumn 2019) @HKU
+  * EE205 Signals and Systems (Spring 2022) @SUSTech
 
 # Academic Services
 * Reviewer of various journals: IEEE TWC, TCOM, TMC, IoTJ, WCL, CL, etc
