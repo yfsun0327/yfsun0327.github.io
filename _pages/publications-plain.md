@@ -1,7 +1,7 @@
 ---
-permalink: /publications/
+permalink: /publications-plain/
 title: "Publications-plain"
-excerpt: "Publications"
+excerpt: "Publications-plain"
 author_profile: true
 ---
 
