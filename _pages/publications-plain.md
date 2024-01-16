@@ -28,8 +28,8 @@ J. Li\*, C. Yu\*, Y. Luo\*, <b>Y. Sun\*</b>, and R. Wang, "Passive Motion Detect
 <!--https://ieeexplore.ieee.org/document/10214505-->
 
 # Patents
-<b>Y. Sun</b>, R. Wang, W. Chen, X. Li, "Method for beam forming by predicting millimeter wave channel distribution through angular velocity", <i>CN Patent</i>, CN111106861B issued July 23, 2021.
-<!--https://patents.google.com/patent/CN111106861B/en-->
-
 <b>Y. Sun</b>, R. Wang, B. Lv, W. Chen, "Communication method, device, equipment and storage medium", <i>CN Patent</i>, CN110912600B issued July 7, 2023.
 <!--https://patents.google.com/patent/CN110912600B/en-->
+
+<b>Y. Sun</b>, R. Wang, W. Chen, X. Li, "Method for beam forming by predicting millimeter wave channel distribution through angular velocity", <i>CN Patent</i>, CN111106861B issued July 23, 2021.
+<!--https://patents.google.com/patent/CN111106861B/en-->
