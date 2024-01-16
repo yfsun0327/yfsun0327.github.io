@@ -1,12 +1,12 @@
 ---
 permalink: /publications-plain/
-title: "Publications"
-excerpt: "Publications"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
+# Publications
 (\* denotes equal contribution)
-
 
 <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Dynamic Uploading Scheduling in mmWave-Based Sensor Networks via Mobile Blocker Detection", <i>arXiv preprint arXiv:2311</i>. 00940, 2023.
 [[paper]](http://yfsun0327.github.io/files/Dynamic_Uploading_Scheduling_in_mmWave-Based_Sensor_Networks_via_Mobile_Blocker_Detection.pdf)[[slides]](http://yfsun0327.github.io/files/ICPADS23_slides.pdf) (accepted by ICPADS'23)
@@ -23,3 +23,7 @@ C. Yu, <b>Y. Sun</b>, Y. Luo, and R. Wang, "[mmAlert: mmWave Link Blockage Predi
 J. Li\*, C. Yu\*, Y. Luo\*, <b>Y. Sun\*</b>, and R. Wang, "[Passive Motion Detection via mmWave Communication System](https://ieeexplore.ieee.org/document/10214505)", in <i>2022 IEEE 95th Vehicular Technology Conference:(VTC2022-Spring)</i>, 2022, pp. 1–6.
 [[paper]](http://yfsun0327.github.io/files/Passive_Motion_Detection_via_mmWave_Communication_System.pdf)
 
+# Patents
+<b>Yifei Sun</b>, Rui Wang, Wanli Chen, Xinrao Li, "Method for beam forming by predicting millimeter wave channel distribution through angular velocity", CN Patent, CN111106861B issued July 23, 2021.
+
+<b>Yifei Sun</b>, Rui Wang, Bojie Lv, Wanli Chen, "Communication method, device, equipment and storage medium", CN Patent, CN110912600B issued July 7, 2023.

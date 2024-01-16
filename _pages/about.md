@@ -23,5 +23,5 @@ redirect_from:
   * EE205 Signals and Systems (Spring 2022) @SUSTech
 
 # Academic Services
-* Reviewer of various journals: IEEE TWC, TCOM, TMC, IoTJ, WCL, CL, etc
-* Reviewer of various conferences: INFOCOM21&24, GLOBECOM21&22&23, ICC22&23&24, etc
+* Reviewer of various journals: TWC, TCOM, TMC, IoTJ, WCL, CL, etc
+* Reviewer of various conferences: INFOCOM'21&24, GLOBECOM'21&22&23, ICC'22&23&24, etc
