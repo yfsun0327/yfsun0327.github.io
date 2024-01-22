@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-(\* denotes equal contribution)
+("\*" denotes equal contribution)
 # Preprints
 <b>[P1]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Predictive Delay-Aware Scheduling with Receiver Rotation Detection and mmWave Channel Learning", submitted to <i>IEEE Transactions on Wireless Communications</i>. (major revision)
 [paper]
