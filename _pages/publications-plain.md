@@ -7,7 +7,9 @@ author_profile: true
 
 ("\*" denotes equal contribution)
 # Preprints
-<b>[P1]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Predictive Delay-Aware Scheduling with Receiver Rotation Detection and mmWave Channel Learning", submitted to <i>IEEE Transactions on Wireless Communications</i>. (major revision)
+<b>[P2]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Dynamic Uploading Scheduling in mmWave-Based Sensor Networks with Blockage Prediction", submitted to ACM Journals for possible publication. [paper]
+
+<b>[P1]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Predictive Delay-Aware Scheduling with Receiver Rotation Detection and mmWave Channel Learning", submitted to <i>IEEE Transactions on Wireless Communications</i> for possible publication. (major revision)
 [paper]
 
 # Journals
