@@ -6,5 +6,5 @@ main:
   # - title: "Publications"
   #   url: /publications/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/An_Indoor_Environment_Sensing_and_Localization_System_via_mmWave_Phased_Array.pdf
