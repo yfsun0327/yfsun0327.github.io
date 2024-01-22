@@ -13,7 +13,7 @@ redirect_from:
 
 # Research Interests
 * <b>Sensing-assited Radio Resource Management in Wireless Communication Systems</b>： low-complexity scheme design, adaptive and predictive scheduling design, millimeter wave, wireless sensor networks
-* <b>Algorithm Design and System Implementation for Wireless Sensing Applications</b>： wireless localization/tracking, gesture classification, passive sensing
+* <b>Algorithm Design and System Implementation for Wireless Sensing Applications</b>： wireless localization/tracking, gesture classification, link blockage prediction, passive bistatic radar, multi-target tracking
 
 # Education
 * Ph.D., Department of Computer Science, The University of Hong Kong (2019.09-)
@@ -21,8 +21,8 @@ redirect_from:
 
 # Teaching
 * Teaching assistant:
-  * COMP2121 Discrete Mathematics (Spring 2023 and Autumn 2019) @HKU
-  * EE205 Signals and Systems (Spring 2022) @SUSTech
+  * COMP2121 Discrete Mathematics (Spring 2023 and Autumn 2019, HKU)
+  * EE205 Signals and Systems (Spring 2022, SUSTech)
 
 # Academic Services
 * Reviewer of various journals: TWC, TCOM, TMC, IoTJ, OJVT, OJCOMS, WCL, CL.

@@ -26,7 +26,7 @@ author_profile: true
 <b>[C3]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Dynamic Uploading Scheduling in mmWave-Based Sensor Networks via Mobile Blocker Detection", <i>arXiv preprint arXiv:2311</i>. 00940, 2023.
 [[paper]](http://yfsun0327.github.io/files/Dynamic_Uploading_Scheduling_in_mmWave-Based_Sensor_Networks_via_Mobile_Blocker_Detection.pdf)[[slides]](http://yfsun0327.github.io/files/ICPADS23_slides.pdf) (accepted by ICPADS'23)
 
-<b>[C2]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. C. M. Lau, "Predictive Resource Allocation in mmWave Systems with Rotation Detection", in <i>ICC 2023-IEEE International Conference on Communications</i>, 2023, pp. 2753–2759.
+<b>[C2]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Predictive Resource Allocation in mmWave Systems with Rotation Detection", in <i>ICC 2023-IEEE International Conference on Communications</i>, 2023, pp. 2753–2759.
 [[paper]](http://yfsun0327.github.io/files/Predictive_Resource_Allocation_in_mmWave_Systems_with_Rotation_Detection.pdf)[[poster]](http://yfsun0327.github.io/files/ICC23_poster.pdf)
 <!--https://ieeexplore.ieee.org/document/10278584-->
 
