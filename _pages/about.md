@@ -11,7 +11,9 @@ redirect_from:
 # About Me
 * I am now a PhD candidate in the joint PhD programme between [SUSTech](https://www.sustech.edu.cn/en/) and [HKU](https://www.hku.hk/), supervised by Prof. [Rui WANG](http://lasso.eee.sustech.edu.cn/) (SUSTech) and Prof. [Francis C.M. LAU](https://scholar.google.com/citations?user=FmneJesAAAAJ) (HKU). I received my bachelor's degree in Communication Engineering at SUSTech in 2019.
 
-* My research interests lie in the algorithm design on radio resource management and system implementation on wireless sensing system. 
+* My research interests lie in
+  * <b>Sensing-assited Radio Resource Management in Wireless Communication Systems</b>： low-complexity scheme design, adaptive and predictive scheduling design, millimeter wave, wireless sensor networks
+  * <b>Algorithm Design and System Implementation for Wireless Sensing Applications</b>： wireless localization/tracking, gesture classification, passive sensing
 
 # Education
 * Ph.D., Department of Computer Science, The University of Hong Kong (2019.09-)
