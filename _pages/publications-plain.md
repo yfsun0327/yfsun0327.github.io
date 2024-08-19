@@ -7,12 +7,14 @@ author_profile: true
 
 ("\*" denotes equal contribution)
 # Preprints
-<b>[P2]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Dynamic Uploading Scheduling in mmWave-Based Sensor Networks with Blockage Prediction", submitted to ACM Journals for possible publication. [paper]
-
-<b>[P1]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Predictive Delay-Aware Scheduling with Receiver Rotation Detection and mmWave Channel Learning", submitted to <i>IEEE Transactions on Wireless Communications</i> for possible publication. (major revision)
+<b>[P1]</b> <b>Y. Sun</b>, B. Lv, R. Wang, H. Tan, and F. Lau, "Dynamic Uploading Scheduling in mmWave-Based Sensor Networks with Blockage Prediction", submitted to <i>ACM Transactions on Sensor Networks</i> for possible publication. (major revision)
 [paper]
 
 # Journals
+
+<b>[J3]</b> Y. Sun, B. Lv, R. Wang, H. Tan, and F. C. M. Lau, "Predictive Delay-Aware Scheduling with Receiver Rotation Detection and mmWave Channel Learning", <i>IEEE Transactions on Wireless Communications</i>, 2024.
+[[paper]](http://yfsun0327.github.io/files/Predictive_Delay-Aware_Scheduling_with_Receiver_Rotation_Detection_and_mmWave_Channel_Learning.pdf)
+<!--https://ieeexplore.ieee.org/document/10539054-->
 
 <b>[J2]</b> C. Yu, <b>Y. Sun</b>, Y. Luo, and R. Wang, "mmAlert: mmWave Link Blockage Prediction via Passive Sensing", <i>IEEE Wireless Communications Letters</i>, vol. 12, no. 12, pp. 2008–2012, 2023.
 [[paper]](http://yfsun0327.github.io/files/mmAlert_mmWave_Link_Blockage_Prediction_via_Passive_Sensing.pdf)
